@@ -1,0 +1,9 @@
+# TS builds, artifacts, and packages
+/node_modules
+/dist
+
+# Screeps Config
+screeps.json
+
+# ScreepsServer data from integration tests
+/server
